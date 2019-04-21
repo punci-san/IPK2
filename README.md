@@ -4,7 +4,7 @@ Na preklad projektu je použíty príkaz
 ```
 make
 ```
-ktorým sa program preloží, sú potrebné hlavičkové súbory __netinet__ knižnice a __libcap__.
+ktorým sa program preloží, sú potrebné hlavičkové súbory __netinet__ a __libcap__.
 
 # Spustenie aplikácie
 
